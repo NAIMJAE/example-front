@@ -34,6 +34,7 @@ const MainPage = () => {
         )}
         <Link className='list' to="/guide">가이드</Link><br/>
 
+        <img src="http://localhost:8080/example/uploads/맹구.JPG" alt="테스트" />
     </div>
   )
 }
